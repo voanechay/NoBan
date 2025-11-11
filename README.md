@@ -25,7 +25,7 @@
 
 ## ⚙️Использование
 
-1. Загрузите архив (zip/rar) со [страницы последнего релиза](https://github.com/voanechay/NoBan/releases/latest)
+1. Загрузите архив zip со [страницы последнего релиза](https://github.com/voanechay/NoBan/releases/latest)
 
 2. Распакуйте содержимое архива
 
